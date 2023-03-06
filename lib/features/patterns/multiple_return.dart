@@ -6,7 +6,7 @@
 }
 void main(){
  var data = getTwoValue();
- print("a ${data.$0} b ${data.$1}");
+ print("a ${data.$1} b ${data.$2}");
 
 //  Destructuring
 //  var (lat, long) = getTwoValue();
